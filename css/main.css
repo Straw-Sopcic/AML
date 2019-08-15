@@ -149,9 +149,9 @@ Main components
 #cd-logo {
   position: absolute;
   left: 10px;
-  top: 8px;
+  top: 0px;
   width: 50px;
-  height: 15px;
+  //height: 15px;
 }
 #cd-logo img {
   display: block;
