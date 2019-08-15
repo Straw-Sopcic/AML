@@ -149,17 +149,16 @@ Main components
 #cd-logo {
   position: absolute;
   left: 10px;
-  top: 0px;
-  width: 50px;
-  //height: 15px;
 }
 #cd-logo img {
-  display: block;
+  display: inline-block;
+	height: 50px;
+	margin: 7px;
 }
 @media only screen and (min-width: 768px) {
   #cd-logo {
     left: 20px;
-    top: 24px;
+    top: 7px;
   }
 }
 @media only screen and (min-width: 1170px) {
