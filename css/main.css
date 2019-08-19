@@ -78,18 +78,6 @@ Main components
   overflow-y: auto;
 }
 
-/*
-#Bckgrnd {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: auto;
-    opacity: 0.2;
-}
-*/
-
-
 #cd-intro {
   position: relative;
   height: 100%;
